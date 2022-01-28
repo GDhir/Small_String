@@ -1,6 +1,6 @@
 # Small String Optimization
 
-###Custom String class Implementation with small string optimization.  
+### Custom String class Implementation with small string optimization.  
 
 The implementation requires that for small enough strings whose size is 
 less than the template parameter, the string is not dynamically allocated. 
